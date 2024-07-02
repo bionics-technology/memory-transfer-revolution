@@ -1,0 +1,39 @@
+# Node.js specific #
+####################
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS specific #
+#######################
+.DS_Store
+Thumbs.db
+
+# Editor-specific files #
+#########################
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+
+# TS-specific files #
+#########################
+*.tsbuildinfo
+**/dist
+
+# Yarn files #
+#########################
+.pnp.*
+**/.yarn/*
+.yarn-integrity
+
+# Configuration files #
+#########################
+.env
