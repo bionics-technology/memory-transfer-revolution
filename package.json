@@ -1,0 +1,24 @@
+{
+  "name": "memory-transfer-revolution",
+  "version": "0.0.1",
+  "description": "A groundbreaking project focused on developing technology for transferring human memories to digital storage and reloading them into other bodies. The documentation covers scientific research, technical implementation, ethical considerations, and potential applications, aiming to revolutionize our understanding of memory and consciousness.",
+  "author": "Oleksandr Sydorenko",
+  "license": "SEE LICENCE IN LICENCE.TXT",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bionics-technology/memory-transfer-revolution.git"
+  },
+  "keywords": [
+    "consciousness",
+    "memory",
+    "transfer",
+    "bionics"
+  ],
+  "bugs": {
+    "url": "https://github.com/bionics-technology/memory-transfer-revolution/issues"
+  },
+  "homepage": "https://github.com/bionics-technology/memory-transfer-revolution#readme"
+}
