@@ -61,3 +61,13 @@ human-computer symbiosis, and profound impacts on virtual reality and cultural p
     - [Community Building and Engagement](docs/public-engagement-and-awareness/community-building-and-engagement.md)
     - [Educational Outreach](docs/public-engagement-and-awareness/educational-outreach.md)
     - [Marketing and PR Strategies](docs/public-engagement-and-awareness/marketing-and-pr-strategies.md)
+- **Project Support**
+  - [Ways to Contribute to the Project](docs/project-support/ways-to-contribute-the-project.md)
+
+---
+
+The easies way to help the Project is to mark this repository with a **"⭐Star"** at the right top corner of your
+browser and start watching it (by clicking  **"👁Watch"**) to keep up to date. We appreciate your support, as it helps
+us gain visibility and demonstrate the value of our work to the community.
+
+---
